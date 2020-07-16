@@ -1,0 +1,51 @@
+body {
+  font-size: 16px;
+  font-family: Oxygen, sans-serif;
+  color: #fff;
+}
+#header-nav {
+  background-color: #FF000F;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand h1 {
+  font-size: 1.5em;
+  font-family: Lora, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+  color: #fff;
+}
+#nav-list {
+  margin-top: 10px;
+  align-items: center;
+  text-align: center;
+}
+div h1 {
+  font-size: 35px;
+  font-family: cursive;
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+}
+section {
+  padding: 25px 10px;
+  background: #00FF00;
+  color: #000;
+}
+#menu-tile {
+  width: 100%;
+  margin: 0 auto 15px;
+  border: 2px solid #000;
+  background-position: center;
+  overflow: hidden;
+}
+#menu-tile span {
+  font-weight: bold;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
